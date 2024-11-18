@@ -21,6 +21,10 @@
 html,
 body {
     height: 100%;
+    position: relative; /* Ensure the stacking context is properly managed */
+    z-index: 0; /* Default z-index to avoid interference */
+    overflow: auto; /* Ensure content doesn't clip behind the edges */
+
 }
 
 body {
@@ -74,18 +78,6 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-.cursor__dot div {
-    z-index: 999999 !important;
-}
-
-.cursor__dot div:last-child {
-    background-color: var(--text-color-3) !important;
-}
-
-.cursor__dot div:first-child {
-    filter: invert(1);
-    background-color: var(--overlay-color) !important;
-}
 
 .color_pr {
     color: var(--primary-color) !important;
