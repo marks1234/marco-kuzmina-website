@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4dcf2a0a.css",
-    "main.js": "/static/js/main.4b11287b.js",
-    "index.html": "/index.html"
+    "main.css": "/marco-kuzmina-website/static/css/main.4dcf2a0a.css",
+    "main.js": "/marco-kuzmina-website/static/js/main.85afe39a.js",
+    "index.html": "/marco-kuzmina-website/index.html"
   },
   "entrypoints": [
     "static/css/main.4dcf2a0a.css",
-    "static/js/main.4b11287b.js"
+    "static/js/main.85afe39a.js"
   ]
 }
