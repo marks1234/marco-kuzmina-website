@@ -72,7 +72,11 @@ const skills = [
     {
         name: "Relational Databases",
         value: 80,
-    }
+    },
+    {
+        name: "Redis",
+        value: 15,
+    },
 ];
 
 const services = [
@@ -158,9 +162,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "kuzminamarco@gmail.com",
+    YOUR_FONE: "+372 5830 8500",
+    description: "Any interest in the services I provide or questions are always welcome! Don't hesitate to contact me for any queries. WhatsApp Would be a preffered approach for getting in contact with me quickly.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -169,10 +173,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/marks1234",
+    facebook: "https://www.facebook.com/marco.kuzmina",
+    linkedin: "https://www.linkedin.com/in/marco-k-9716031bb/"
 };
 export {
     meta,
