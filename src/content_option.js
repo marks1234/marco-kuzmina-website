@@ -99,7 +99,7 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/tetris.png",
+        img: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/tetris2.png",
         description: "Simple Tetris game purely from HTML and JS.",
         link: "https://marks1234.github.io/tetris/",
     },
