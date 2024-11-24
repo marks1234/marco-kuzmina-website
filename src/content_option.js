@@ -12,7 +12,7 @@ const introdata = {
         third: "I thrive in solving complex problems",
     },
     description: "Need custom solutions? Want an efficient and fast solution? Looking for a teammate that won't let you down? Look no further!",
-    your_img_url: "./assets/images/marco_kuzmina.jpg",
+    your_img_url: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/marco_kuzmina.jpg",
 };
 
 const dataabout = {
