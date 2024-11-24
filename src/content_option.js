@@ -99,9 +99,9 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/tetris.png",
+        description: "Simple Tetris game purely from HTML and JS.",
+        link: "https://marks1234.github.io/tetris/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
