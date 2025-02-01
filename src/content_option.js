@@ -16,24 +16,24 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "A bit about my self",
     aboutme: "As a full-stack developer completing my studies at Kood Jõhvi, I’m passionate about building efficient, user-focused solutions. My background includes five years of study in the UK, where I developed analytical problem-solving skills, a strong sense of responsibility, and gained practical experience working in cross-cultural teams. \n\nI have experience in both back-end and front-end development, and I have also worked on side projects involving website and app creation. Across all my projects, my focus has been on creating solutions that are both functional and easy to use. \n\nI thrive in groups that value open communication, approach problem-solving enthusiastically, and maintain a balance between independent and team work."
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Cybersecurity Hackathon 2023 3rd place",
+        where: "Issued by Kood/Jõhvi",
+        date: "Apr 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "British Physics Olympiad 2021-22 Bronze II Grade",
+        where: "Issued by British Physics Olympiad",
+        date: "Nov 2021",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
+    // },
 ];
 
 const skills = [
@@ -104,7 +104,7 @@ const dataportfolio = [{
         link: "https://marks1234.github.io/tetris/",
     },
     {
-        img: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/github.png",
+        img: "https://raw.githubusercontent.com/marks1234/marco-kuzmina-website/refs/heads/master/src/assets/images/git2.png",
         description: "Some I have not hosted but can be found on my github.",
         link: "https://github.com/marks1234?tab=repositories",
     },
